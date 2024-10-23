@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Repos/UE Projects/AliveNpc/AliveNpc/Content/Levels/Main.umap",
+				"C:/Repos/UE Projects/AliveNpc/AliveNpc/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Repos/UE Projects/AliveNpc/AliveNpc/Content/ThirdPerson/Blueprints/BP_Bot_1.uasset",
+				"C:/Repos/UE Projects/AliveNpc/AliveNpc/Content/Characters/Bots/BP_Bot_1.uasset",
+				"C:/Repos/UE Projects/AliveNpc/AliveNpc/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_04.uasset",
+				"C:/Repos/UE Projects/AliveNpc/AliveNpc/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_03.uasset",
+				"C:/Repos/UE Projects/AliveNpc/AliveNpc/Content/Levels/_GENERATED/sava2/CubeGridToolOutput_DA16A508.uasset"
+			]
+		}
+	]
+}
